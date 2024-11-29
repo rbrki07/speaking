@@ -1,0 +1,5 @@
+# Bridging the Gap: Seamless and type-safe communication between Spring Boot and React
+
+When developing modern single page applications (SPA), communication between the frontend and backend poses various challenges for full-stack developers. In this talk, solutions for common problems will be presented using Spring Boot and React as examples: How can type-safe communication between backend and frontend be implemented? How can backend and frontend code be developed as efficiently as possible and kept synchronized so that entities and endpoints in the backend permanently match types and functions in the frontend? How can endpoints be created in the backend that can be used as seamlessly as possible in components in the frontend?
+The approaches shown range from purely manual implementation and code generation to the use of full-stack frameworks such as Hilla.
+With the help of a maturity model, the approaches presented are compared and evaluated using various criteria such as productivity, maintainability and error handling.
