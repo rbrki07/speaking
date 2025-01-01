@@ -33,5 +33,6 @@ I write about things I do and I'm interested in on my [blog](https://rene-wilby.
 | Date | Event | Location |
 | - | - | - |
 | 2025-04-02 | [JavaLand Conference](https://www.javaland.eu) | Nürburgring, Germany |
-| 2025-01-19 | [Kiel React (Native) Meetup](https://www.meetup.com/de-DE/kiel-react-native-meetup) | Kiel, Germany |
+| 2025-03-19 | [JUG Hamburg](https://www.meetup.com/de-DE/jug-hamburg/) | Hamburg, Germany |
+| 2025-01-16 | [Kiel React (Native) Meetup](https://www.meetup.com/de-DE/kiel-react-native-meetup) | Kiel, Germany |
 | 2024-10-29 | [Vaadin Create](https://vaadin.com/vaadin-create) | Frankfurt, Germany |
