@@ -18,7 +18,7 @@ If you're interested in collaborating on content or having me speak at your even
 
 ## Bio
 
-René Wilby is a seasoned freelance software engineer specializing in full-stack development for mobile and web apps, system integration, APIs, and DevOps. René also has extensive experience in technical product and project management and serves as a university lecturer and trainer.
+René Wilby is a seasoned freelance software engineer specializing in development of full-stack web apps, microservices, APIs, and DevOps. René also has extensive experience as a university lecturer, trainer and speaker.
 
 ## Picture
 
