@@ -32,9 +32,15 @@ I write about things I do and I'm interested in on my [blog](https://rene-wilby.
 
 | Date | Event | Location |
 | - | - | - |
-| 2025-07-28 | [GFU Cyrus AG](https://www.gfu.net/semicolon.html) | Online |
-| 2025-04-02 | [JavaLand Conference](https://www.javaland.eu) | Nürburgring, Germany |
+| 2025-07-28 | [GFU Cyrus AG Semicolon](https://www.gfu.net/seminare-schulungen-kurse/semicolon_sk73/spring_boot_react_integrieren_s5162.html) | Online |
+| 2025-04-02 | [JavaLand Conference](https://my.doag.org/events/javaland/2025/agenda/#agendaId.5229) | Nürburgring, Germany |
 | 2025-03-25 | [FLS Barcamp](https://fastleansmart.com/) | Heikendorf, Germany |
-| 2025-03-19 | [JUG Hamburg](https://www.meetup.com/de-DE/jug-hamburg/) | Hamburg, Germany |
-| 2025-01-16 | [Kiel React (Native) Meetup](https://www.meetup.com/de-DE/kiel-react-native-meetup) | Kiel, Germany |
+| 2025-03-19 | [JUG Hamburg](https://www.meetup.com/de-DE/jug-hamburg/events/306459656) | Hamburg, Germany |
+| 2025-01-16 | [Kiel React (Native) Meetup](https://www.meetup.com/de-DE/kiel-react-native-meetup/events/305442775) | Kiel, Germany |
 | 2024-10-29 | [Vaadin Create](https://vaadin.com/vaadin-create) | Frankfurt, Germany |
+
+## Recordings
+
+| Date | Event | Link |
+| - | - | - |
+| 2024-10-29 | [Vaadin Create](https://vaadin.com/vaadin-create) | [YouTube](https://youtu.be/zNV0gHk-GIA) |
