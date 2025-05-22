@@ -32,7 +32,8 @@ I write about things I do and I'm interested in on my [blog](https://rene-wilby.
 
 | Date | Event | Location |
 | - | - | - |
-| 2025-11-09 | [IT-Tage](https://www.ittage.informatik-aktuell.de/programm/2025/unterschiede-ueberwinden-spring-boot-und-react-nahtlos-integrieren.html) | Frankfurt, Germany |
+| 2025-12-09 | [IT-Tage](https://www.ittage.informatik-aktuell.de/programm/2025/unterschiede-ueberwinden-spring-boot-und-react-nahtlos-integrieren.html) | Frankfurt, Germany |
+| 2025-11-04 | [W-JAX](https://jax.de/web-development-javascript/spring-boot-react/) | Munich, Germany |
 | 2025-07-28 | [GFU Cyrus AG Semicolon](https://www.gfu.net/seminare-schulungen-kurse/semicolon_sk73/spring_boot_react_integrieren_s5162.html) | Online |
 | 2025-06-11 | [DevTalk@TK](https://www.meetup.com/de-DE/devtalk-tk) | Hamburg, Germany |
 | 2025-04-02 | [JavaLand Conference](https://my.doag.org/events/javaland/2025/agenda/#agendaId.5229) | Nürburgring, Germany |
