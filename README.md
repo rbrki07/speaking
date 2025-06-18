@@ -34,6 +34,7 @@ I write about things I do and I'm interested in on my [blog](https://rene-wilby.
 | - | - | - |
 | 2025-12-09 | [IT-Tage](https://www.ittage.informatik-aktuell.de/programm/2025/unterschiede-ueberwinden-spring-boot-und-react-nahtlos-integrieren.html) | Frankfurt, Germany |
 | 2025-11-04 | [W-JAX](https://jax.de/web-development-javascript/spring-boot-react/) | Munich, Germany |
+| 2025-10-21 | [Vaadin Create](https://vaadin.com/vaadin-create-2025) | Frankfurt, Germany |
 | 2025-07-28 | [GFU Cyrus AG Semicolon](https://www.gfu.net/seminare-schulungen-kurse/semicolon_sk73/spring_boot_react_integrieren_s5162.html) | Online |
 | 2025-06-11 | [DevTalk@TK](https://www.meetup.com/de-DE/devtalk-tk) | Hamburg, Germany |
 | 2025-04-02 | [JavaLand Conference](https://my.doag.org/events/javaland/2025/agenda/#agendaId.5229) | Nürburgring, Germany |
@@ -46,4 +47,5 @@ I write about things I do and I'm interested in on my [blog](https://rene-wilby.
 
 | Date | Event | Link |
 | - | - | - |
+| 2025-06-04 | [Vaadin Webinar](https://vaadin.com/webinars) | [YouTube](https://youtu.be/eUVaOlRlulA) |
 | 2024-10-29 | [Vaadin Create](https://vaadin.com/vaadin-create) | [YouTube](https://youtu.be/zNV0gHk-GIA) |
