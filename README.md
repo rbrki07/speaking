@@ -13,6 +13,7 @@ If you're interested in collaborating on content or having me speak at your even
 
 ## Current talks
 
+- [All-In on Full-Stack? Why developers love it and companies struggle with it.](abstracts/all-in-on-full-stack.md)
 - [The State of React for Java Devs](abstracts/state-of-react-for-java-devs.md)
 - [Bridging the Gap: Seamless and type-safe communication between Spring Boot and React](abstracts/bridging-the-gap.md)
 - [A journey towards end-to-end observability for Single Page Applications](abstracts/journey-towards-e2e-observability-spa.md)

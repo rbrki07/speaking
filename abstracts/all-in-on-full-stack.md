@@ -1,0 +1,5 @@
+# All-In on Full-Stack? Why developers love it and companies struggle with it.
+
+The advantages of Full-Stack development are well known, and more and more developers choose this approach to build apps. At the same time, many companies still struggle to create an environment that enables Full-Stack development and allows them to benefit from it.
+Join this talk to learn why Full-Stack development is so attractive to developers, why it can be difficult for companies to adopt it, and what companies can do to become more "Full-Stack".
+This talk will provide insights based on current field studies, surveys, knowledge of domain experts and personal experience. Don't expect code examples and recommendations for specific tools or frameworks. It will be about the mental model, methodologies and best practices.
