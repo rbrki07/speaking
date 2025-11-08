@@ -13,6 +13,7 @@ If you're interested in collaborating on content or having me speak at your even
 
 ## Current talks
 
+- [Advanced Full-Stack-Development: How to use React and React Native to build a unified web and mobile experience](abstracts/advanced-full-stack-development.md)
 - [All-In on Full-Stack? Why developers love it and companies struggle with it.](abstracts/all-in-on-full-stack.md)
 - [The State of React for Java Devs](abstracts/state-of-react-for-java-devs.md)
 - [Bridging the Gap: Seamless and type-safe communication between Spring Boot and React](abstracts/bridging-the-gap.md)
@@ -34,9 +35,9 @@ I write about things I do and I'm interested in on my [blog](https://rene-wilby.
 
 | Date | Event | Location |
 | - | - | - |
-| 2025-12-09 | [IT-Tage](https://www.ittage.informatik-aktuell.de/programm/2025/unterschiede-ueberwinden-spring-boot-und-react-nahtlos-integrieren.html) | Frankfurt, Germany |
-| 2025-11-25 | [XtremeJ](https://xtremej.dev/2025/schedule/) | Online |
-| 2025-11-06 | [W-JAX](https://jax.de/web-development-javascript/spring-boot-react/) | Munich, Germany |
+| 2025-12-09 | [IT-Tage Conference](https://www.ittage.informatik-aktuell.de/programm/2025/unterschiede-ueberwinden-spring-boot-und-react-nahtlos-integrieren.html) | Frankfurt, Germany |
+| 2025-11-25 | [XtremeJ Conference](https://xtremej.dev/2025/schedule/) | Online |
+| 2025-11-06 | [W-JAX Conference](https://jax.de/web-development-javascript/spring-boot-react/) | Munich, Germany |
 | 2025-11-06 | [Vaadin Webinar](https://vaadin.com/webinars) | Online |
 | 2025-08-06 | [CyberJAR Live Stream](https://www.youtube.com/watch?v=tqgaOxNoCMw) | Online |
 | 2025-07-29 | [GFU Cyrus AG Semicolon](https://www.gfu.net/seminare-schulungen-kurse/semicolon_sk73/spring_boot_react_integrieren_s5162.html) | Online |
@@ -46,13 +47,15 @@ I write about things I do and I'm interested in on my [blog](https://rene-wilby.
 | 2025-03-25 | [FLX Engineering Days](https://fastleansmart.com/) | Heikendorf, Germany |
 | 2025-03-19 | [JUG Hamburg](https://www.meetup.com/de-DE/jug-hamburg/events/306459656) | Hamburg, Germany |
 | 2025-01-16 | [Kiel React (Native) Meetup](https://www.meetup.com/de-DE/kiel-react-native-meetup/events/305442775) | Kiel, Germany |
-| 2024-10-29 | [Vaadin Create](https://vaadin.com/vaadin-create) | Frankfurt, Germany |
+| 2024-10-29 | [Vaadin Create Conference](https://vaadin.com/vaadin-create) | Frankfurt, Germany |
 
 ## Recordings
 
 | Date | Event | Link |
 | - | - | - |
+| 2025-11-06 | [W-JAX Conference](https://jax.de/web-development-javascript/spring-boot-react/) | [entwickler.de](https://entwickler.de/reader/player/w-jax-2025) |
+| 2025-11-06 | [Vaadin Webinar](https://vaadin.com/webinars) | [YouTube](https://www.youtube.com/watch?v=nXL2DUSmwuk) |
 | 2025-08-06 | [CyberJAR Live Stream](https://www.youtube.com/watch?v=tqgaOxNoCMw) | [YouTube](https://www.youtube.com/watch?v=tqgaOxNoCMw) |
 | 2025-06-04 | [Vaadin Webinar](https://vaadin.com/webinars) | [YouTube](https://youtu.be/eUVaOlRlulA) |
 | 2025-04-02 | [JavaLand Conference](https://my.doag.org/events/javaland/2025/agenda/#agendaId.5229) | [DOAG](https://my.doag.org/events/javaland/2025/agenda/#agendaId.5229) |
-| 2024-10-29 | [Vaadin Create](https://vaadin.com/vaadin-create) | [YouTube](https://youtu.be/zNV0gHk-GIA) |
+| 2024-10-29 | [Vaadin Create Conference](https://vaadin.com/vaadin-create) | [YouTube](https://youtu.be/zNV0gHk-GIA) |
